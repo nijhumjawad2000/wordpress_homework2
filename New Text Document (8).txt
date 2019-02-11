@@ -1,0 +1,15 @@
+Q1:How would you make all the sections (picture, bio, education, experience, language, etc.) editable from the WordPress admin? Are you going to create a different post for each section or add WordPress specific data types or another solution? Please explain your solution for each section and the reason you plan to do it this way.
+
+Answer:I am using Oxygen site builder for this project. At first I have created a template .I am creating sections to add Bio, Education, Experience, Language, Projects and Contact. I am using some tools of oxygen like heading, paragraph, button, image, gallery , contact form etc to complete my page. For add image i have used image tools. 
+
+Q2:How are you going to add the project images? Are you going to use a different data type for the images or treat posts with features images differently on the WP loop, or another solution?
+
+Answer:By clicking on image or on any part of the section, admin will be able to delete the demo picture and upload their own picture and edit the details.  It's simple and very easy to customize. I've created a home page and I am applying my template into it and setting it as a static page.
+
+Q3:How are you going to document the theme so other people understand how to use it right away? Have into account this theme may be used by our own wheel one students later.
+
+Answer:My Portfolio is a stylish template. Designed to be a portfolio template, it's the perfect template for  developers , freelancers. It is fully responsive. It will look great on any devices from desktop to mobile phones. It has  working contact form, stylish portfolio section and other features. This template is also very easy to customize.By clicking on sections you can add ,remove or edit the section details and pictures.
+
+Template Features:
+Fully responsive, stylish to customize, Stylish portfolio section
+, Support in all major browsers.
